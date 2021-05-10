@@ -1,0 +1,8 @@
+Run the file 171IT211_IT352_P3.sh as :
+
+sudo bash 181IT119_IT352_P3.sh
+
+	The current files store the filter, IPs and Port Numbers as specified in Test Case 4.
+
+		You can change it for the cases in the program files itself
+
